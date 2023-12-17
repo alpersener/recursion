@@ -59,6 +59,8 @@ F(5)=f(4)+f(3)
 Bu nedenle fibonacci sayılarında recursion kullanılabilir(mergesort,quicksort gibi sorting algoritmalarında da kullanılacak)
 
 ![photo2](https://github.com/alpersener/recursion/blob/main/photos/photo2.png)
+![sd](https://github.com/alpersener/recursion/assets/69325145/95ddc04a-dfc9-495d-a6e1-1ebfa6c24b91)
+
 
 Recursion yaklaşım
 ==================
